@@ -1,0 +1,3 @@
+/home/cj2/Desktop/CG/ClothSimProject/build/CMakeFiles/ClothSimProject.dir
+/home/cj2/Desktop/CG/ClothSimProject/build/CMakeFiles/edit_cache.dir
+/home/cj2/Desktop/CG/ClothSimProject/build/CMakeFiles/rebuild_cache.dir
