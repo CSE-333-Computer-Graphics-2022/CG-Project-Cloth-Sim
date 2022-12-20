@@ -1,0 +1,3 @@
+Controlls:
+	Cloth movement: WASD
+	Wind direction/speed: IJKL
